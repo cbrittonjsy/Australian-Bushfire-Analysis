@@ -8,9 +8,9 @@ In this project I delve into three different approaches for tackling this regres
 
 The first notebook utilises a traditional machine learning technique, a  random forest regressor. This notebook begins by exploring the dataset, cleaning it and preprocessing it ready for training, then fits and evaluates the random forest regressor.
 
-The second notebook moves on to a deep learning technique where I build a feedforward neural network using PyTorch. The cleaned dataset from notebook 1 is used but additional steps are needed, such as normalisation and tensor transformation. The neural network approach is subsequently comapred to the traditional approach.
+The second notebook moves on to a deep learning technique where I build a feedforward neural network using PyTorch. The cleaned dataset from notebook 1 is used but additional steps are needed, such as normalisation and tensor transformation. The neural network approach is subsequently compared to the traditional approach.
 
-The third notebook looks even futher into deep learning with the use of a pre-trained model, TabNet. The use of different batch sizes and epochs is tested and the feedforward neural network from question 2 is comapred to the pre-trained TabNet model.
+The third notebook looks even futher into deep learning with the use of a pre-trained model, TabNet. The use of different batch sizes and epochs is tested and the feedforward neural network from question 2 is compared to the pre-trained TabNet model.
 
 ## Dataset
 
