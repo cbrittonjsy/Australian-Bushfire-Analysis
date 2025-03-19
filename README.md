@@ -40,7 +40,7 @@ The dataset consists of the following columns:
 
 ## Running the Notebooks
 
-Using a terminal, this repository can be cloned with the command `git clone https://https://github.com/cbrittonjsy/Australian-Bushfire-Analysis.git` to gain access to the notebooks. All dependencies will be listed below as well as in the file `dependencies.txt`.
+Using a terminal, this repository can be cloned with the command `git clone https://github.com/cbrittonjsy/Australian-Bushfire-Analysis.git` to gain access to the notebooks. All dependencies will be listed below as well as in the file `dependencies.txt`.
 
 The dataset will need to be downloaded and saved locally, as well as a countries shapefile which is needed for fire location visualisation. The link for the shapefile will be credited below.
 
